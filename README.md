@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="StriktFlow Screenshot" src="<img width="1775" height="957" alt="image" src="https://github.com/user-attachments/assets/0a3b43e6-851a-4432-81ca-cbd0a8d55e31">
+  <img alt="StriktFlow Screenshot" src=<img width="1775" height="957" alt="image" src="https://github.com/user-attachments/assets/0a3b43e6-851a-4432-81ca-cbd0a8d55e31">
 " />
   <h1>StriktFlow Pomodoro</h1>
   <p>An Apple-inspired minimal Pomodoro timer with a premium dark mode interface, fluid animations, and powerful productivity tools to help you maintain focus.</p>
