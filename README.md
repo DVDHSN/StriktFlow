@@ -1,5 +1,4 @@
 <div align="center">
-  <img width="1775" height="957" alt="image" src="https://github.com/user-attachments/assets/352c3a8f-19da-45ba-a95b-ae633097865c" />
   <h1>StriktFlow Pomodoro</h1>
   <p>An Apple-inspired minimal Pomodoro timer with a premium dark mode interface, fluid animations, and powerful productivity tools to help you maintain focus.</p>
   <p>
@@ -32,6 +31,23 @@ The core of the application is a highly customizable Pomodoro timer that helps y
 -   **Fluid Animations**: Smooth, interruptible animations throughout the UI, powered by Framer Motion, provide a premium user experience.
 -   **Audio Feedback**: Subtle, programmatically generated sounds for starting a timer and completing a session using the Web Audio API.
 -   **Local Persistence**: All your settings, tasks, and deadlines are automatically saved to your browser's local storage.
+
+## 📷 Screenshots
+**🏠 Home Page**
+<img width="1775" height="957" alt="image" src="https://github.com/user-attachments/assets/da073260-a63a-4076-acf9-926c43c82b53" />
+
+**✅ Task Manangement**
+<img width="1797" height="960" alt="image" src="https://github.com/user-attachments/assets/f390e304-20b1-47ee-9bba-d4a309f3b7b5" />
+
+**📝 Deadline/Exam Tracker**
+<img width="1787" height="953" alt="image" src="https://github.com/user-attachments/assets/eb421db1-51e4-4589-9e13-fcf37a514849" />
+
+**⚙️ Extensive Customization**
+<img width="1775" height="963" alt="image" src="https://github.com/user-attachments/assets/2d8497b0-fc48-46ac-9454-b7631c5e3e44" />
+
+
+
+
 
 ## 🛠️ Tech Stack
 
