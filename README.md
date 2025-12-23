@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>[StriktFlow Pomodoro](https://striktflow.netlify.app/)</h1>
+  <h1>[TypeScript](https://www.typescriptlang.org/)</h1>
   <p>An Apple-inspired minimal Pomodoro timer with a premium dark mode interface, fluid animations, and powerful productivity tools to help you maintain focus.</p>
   <p>
     <img alt="Vite" src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"/>
