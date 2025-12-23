@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>[TypeScript](https://www.typescriptlang.org/)</h1>
+  <h1>StriktFlow Pomodoro</h1>
   <p>An Apple-inspired minimal Pomodoro timer with a premium dark mode interface, fluid animations, and powerful productivity tools to help you maintain focus.</p>
   <p>
     <img alt="Vite" src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"/>
@@ -11,7 +11,7 @@
 
 ## Description
 
-StriktFlow is a sophisticated Pomodoro timer designed for individuals who appreciate minimalist aesthetics and powerful functionality. Inspired by Apple's design language, it features a clean, dark-mode-first interface with smooth, physics-based animations powered by Framer Motion.
+[StriktFlow](https://striktflow.netlify.app/) is a sophisticated Pomodoro timer designed for individuals who appreciate minimalist aesthetics and powerful functionality. Inspired by Apple's design language, it features a clean, dark-mode-first interface with smooth, physics-based animations powered by Framer Motion.
 
 The core of the application is a highly customizable Pomodoro timer that helps you cycle through focused work sessions and breaks. Beyond the timer, StriktFlow integrates essential productivity tools, including a task manager to define your focus for each session and a deadline tracker to keep your long-term goals in sight. All your settings, tasks, and deadlines are saved locally in your browser for a persistent experience.
 
