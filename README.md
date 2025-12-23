@@ -60,7 +60,6 @@ The core of the application is a highly customizable Pomodoro timer that helps y
 -   **Styling**: [Tailwind CSS](https://tailwindcss.com/) (via CDN)
 -   **Animation**: [Framer Motion](https://www.framer.com/motion/)
 -   **Icons**: [Lucide React](https://lucide.dev/)
--   **AI Services**: [Google Gemini](https://ai.google.dev/) (via `@google/genai`)
 
 ## 🚀 Installation & Setup
 
